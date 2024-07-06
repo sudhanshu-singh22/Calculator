@@ -5,8 +5,8 @@ Features
 User-friendly interface with responsive design.
 Supports addition, subtraction, multiplication, and division.
 Includes functionality for percentage calculations.
-Clear and All Clear (AC) buttons for managing calculations.
-Technologies Used
+Clear and All Clear (AC) buttons for managing calculations.<br>
+Technologies Used:-
 HTML5
 CSS3
 JavaScript
